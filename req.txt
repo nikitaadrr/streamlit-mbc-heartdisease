@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+pickle
+pandas==2.1.1
+seaborn==0.13.0
+numpy==1.26.0
+pip==24.0
